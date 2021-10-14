@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <span style ="font-size : 50px"> Glenn Yinyu </span> (@Glenn-Po)
+- 👋 Hi, I’m <span style ="font-size : 50px; color : teal; "> Glenn Yinyu </span> (@Glenn-Po)
 - 👀 I’m interested in **TECH!**.
 - 🌱 I’m currently learning **Django**, **Javascript** and **ReactJS**.
 - 💞️ I’m looking to collaborate on **python projects**.
