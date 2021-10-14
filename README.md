@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glenn-Po
+- 👋 Hi, I’m **Glenn Yinyu** (@Glenn-Po)
 - 👀 I’m interested in TECH! .
 - 🌱 I’m currently learning Django, Javascript and ReactJS.
 - 💞️ I’m looking to collaborate on python projects.
