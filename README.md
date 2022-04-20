@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Glenn Yinyu (@Glenn-Po)
 - 👀 I’m interested in **TECH!**.
-- 🌱 I’m currently learning **Django**, **Javascript** and **ReactJS**.
-- 💞️ I’m looking to collaborate on **python projects**.
+- 🌱 I’m currently learning **Django** and **ReactJS**.
+- 💞️ I’m looking to collaborate on **python and javascript projects**.
 - 📫 How to reach me; EMAIL : glennfor72@gmail.com   PHONE: **(+237) 681028574**
 
 <!---
