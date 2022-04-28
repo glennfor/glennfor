@@ -5,7 +5,8 @@ Glenn-Po/Glenn-Po is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1> Hi 👋, Welcome to my Github page!
+<h1 style="text-align: center" > Hi 👋, Welcome to my Github page! </h1>
+<hr width="75%">
 
 - I’m Glenn Yinyu (@Glenn-Po)
 - 👀 I’m interested in **TECH!**.
