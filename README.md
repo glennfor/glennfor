@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 ## Hey Welcome to my GitHub Page.
 Glad to have you here. `Follow me` and `star a few cool projects`.
 
-### Languages
+
+### Languages and Technologies
 
 <table width="320px">
     <tbody>
@@ -40,14 +41,6 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
             </td>
         </tr>
-    </tbody>
-</table>
-
-
-### Technologies
-
-<table width="320px">
-    <tbody>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
@@ -69,6 +62,8 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
     </tbody>
 </table>
 
+
+
 ### Frameworks, Libraries and Modules
 
 <table width="320px">
@@ -89,10 +84,41 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             <td width="80px" align="center">
             <span><strong>PyGame</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Laravel</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+            </td>
+        <tr>
     </tbody>
 </table>
 
-### Design Tools
+### Developer Tools
+
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>VS Code</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>NotePad++</strong></span><br>
+            <img height="32px" src="https://i.ibb.co/gSbvCC9/notepad.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>PyCharm</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//pycharm.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Dev C++</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//dev-c++.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Design and Productivity Tools
 
 <table width="320px">
     <tbody>
@@ -113,14 +139,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             <span><strong>Figma</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
             </td>
-    </tbody>
-</table>
-
-
-### Productivity Tools
-
-<table width="320px">
-    <tbody>
+        </tr>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>MS Office</strong></span><br>
@@ -134,8 +153,10 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             <span><strong>Filmora Go</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filmora/filmora-original.svg">
             </td>
+        </tr>
     </tbody>
 </table>
+
 
 ## GitHub Stats
 | <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen 's github stats" /></a> | <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" /></a> |
