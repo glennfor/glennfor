@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Hello 👋, Welcome to my github page.🏡
 </h1>
 
-I am a tech enthusiast and enthusiastic programmer. I am always open to learning. It is greate to have you here.
+I am a tech enthusiast and enthusiastic programmer. I am always open to learning. I am pleased to have you here.
 `Follow me` and `star some cool projects`. Learn more on my website [here](https://glenn-po.github.io)
 
 ## Lets connect on social media.🤳
