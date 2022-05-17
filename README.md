@@ -23,17 +23,14 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             <span><strong>Javascript</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
-            
             <td width="80px" align="center">
             <span><strong>C</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
             </td>
-            
             <td width="80px" align="center">
             <span><strong>C++</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
             </td>
-            
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -110,7 +107,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
 
 ### Productivity Tools
 
-
+## GitHub Stats
 | <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen 's github stats" /></a> | <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
