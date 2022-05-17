@@ -7,11 +7,21 @@ You can click the Preview link to take a look at your changes.
 
 ![alt "My profile banner - Nfor Glen Yinyu"](https://github.com/Glenn-Po/Glenn-Po/blob/main/profile/banner.gif)
 
-## Hey Welcome to my GitHub Page.
+<p align="center">
+Hello 👋, Welcome to my github page.🏡
+</p>
+
 Glad to have you here. `Follow me` and `star a few cool projects`.
 
+<p align="center">
+# Lets connect on social media.🤳🎨💞💥💝❤>
+</p>
 
-### Languages and Technologies
+<p align="center">
+# My Working Universe💻🌎
+</p>
+
+### Languages and Technologies🎯
 
 <table width="320px">
     <tbody>
