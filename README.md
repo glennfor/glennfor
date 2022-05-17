@@ -19,7 +19,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`. Learn more on
 [![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red&color=red&labelColor=white)](https://bit.ly/3C9t0gw)
 [![](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=steelblue)](https://t.me/QueueUno)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white&color=b0b0b0&labelColor=blue)](https://twitter.com/GlenNforY)
-[![](https://img.shields.io/badge/whatsapp-%230077B5.svg?style=for-the-badge&logo=whatsapp&logoColor=00ff00&color=005500)](https://wa.me/message/Z5Y3OOXANNH4D1)
+[![](https://img.shields.io/badge/whatsapp-%230077B5.svg?style=for-the-badge&logo=whatsapp&logoColor=00ff00&color=005500&labelColor=00aa00)](https://wa.me/message/Z5Y3OOXANNH4D1)
 [![](https://img.shields.io/badge/facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=blue&color=444444&labelColor=white)](https://web.facebook.com/nfor.glen.1)
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=pink&color=black&labelColor=black)](https://www.instagram.com/devlab.x)
 
