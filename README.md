@@ -11,11 +11,14 @@ You can click the Preview link to take a look at your changes.
 Hello 👋, Welcome to my github page.🏡
 </h1>
 
-Glad to have you here. `Follow me` and `star a few cool projects`.
+Glad to have you here. `Follow me` and `star a few cool projects`. [Visit my website!](https://glenn-po.github.io)
 
 ## Lets connect on social media.🤳🎨💞💥💝❤>
+
+Visit my website here. 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/glenn-yinyu)
-[![](https://img.shields.io/endpoint?url=https://glenn-po.github.io/&style=for-the-badge)](https://glenn-po.github.io)
+[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube)](https://bit.ly/3C9t0gw)
+
 
 
 
