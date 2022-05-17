@@ -13,3 +13,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Django** and **ReactJS**.
 - 💞️ I’m looking to collaborate on **python and javascript projects**.
 - 📫 How to reach me; EMAIL : glennfor72@gmail.com   PHONE: **(+237) 681028574**
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=glenn-po&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
