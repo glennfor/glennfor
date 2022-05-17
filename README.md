@@ -56,7 +56,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/github/github-original.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/github/github-plain.svg">
             </td>
         </tr>
     </tbody>
@@ -83,7 +83,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>PyGame</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg">
+            <img height="32px" src="https://www.pygame.org/images/logo_lofi.png">
             </td>
             <td width="80px" align="center">
             <span><strong>Laravel</strong></span><br>
@@ -113,7 +113,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>NotePad++</strong></span><br>
-            <img height="32px" src="https://i.ibb.co/gSbvCC9/notepad.png">
+            <img height="32px" src="https://notepad-plus-plus.org/images/logo.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>PyCharm</strong></span><br>
@@ -121,7 +121,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>Dev C++</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//dev-c++.svg">
+            <img height="32px" src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90">
             </td>
         </tr>
     </tbody>
@@ -138,7 +138,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>Pixellab</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pixellab/pixellab-original.svg">
+            <img height="32px" src="https://play-lh.googleusercontent.com/RjVs74GweoFTmMfpTwONPSpNlZZtjtq54QromAnufPb2k_lQWSGLCHcC87yc_QGkxv3f=s180-rw">
             </td>
             <td width="80px" align="center">
             <span><strong>Canva</strong></span><br>
@@ -152,15 +152,15 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>MS Office</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msoffice/msoffice-original.svg">
+            <img height="32px" src="https://www.logo.wine/a/logo/Microsoft_Office/Microsoft_Office-Logo.wine.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Google Suite</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsuite/gsuite-original.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/google/google-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Filmora Go</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filmora/filmora-original.svg">
+            <img height="32px" src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg">
             </td>
         </tr>
     </tbody>
