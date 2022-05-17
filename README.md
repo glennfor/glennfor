@@ -117,7 +117,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>PyCharm</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/pycharm/pycharm.eps">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Dev C++</strong></span><br>
@@ -156,7 +156,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>Google Suite</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/google/google-plain.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/google/google-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Filmora Go</strong></span><br>
