@@ -23,6 +23,17 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             <span><strong>Javascript</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
+            
+            <td width="80px" align="center">
+            <span><strong>C</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+            </td>
+            
+            <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>
+            
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -52,16 +63,6 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
     </tbody>
 </table>
 
-
-<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
-<img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
 ### Technologies
 
