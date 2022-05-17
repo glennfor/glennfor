@@ -56,7 +56,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/github/github-original.svg">
             </td>
         </tr>
     </tbody>
@@ -79,7 +79,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>Django</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/django/django-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>PyGame</strong></span><br>
@@ -87,7 +87,16 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>Laravel</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg">
+            </td>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Boostrap</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>TailwindCSS</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
             </td>
         <tr>
     </tbody>
@@ -108,7 +117,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>PyCharm</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//pycharm.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/pycharm/pycharm.eps">
             </td>
             <td width="80px" align="center">
             <span><strong>Dev C++</strong></span><br>
