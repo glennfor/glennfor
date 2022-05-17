@@ -117,7 +117,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>PyCharm</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg">
+            <img height="32px" src="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Dev C++</strong></span><br>
