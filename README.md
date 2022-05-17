@@ -13,7 +13,7 @@ Hello 👋, Welcome to my github page.🏡
 
 Glad to have you here. `Follow me` and `star a few cool projects`. Learn more on my website [here](https://glenn-po.github.io)
 
-## Lets connect on social media.🤳🎨💞💥💝❤>
+## Lets connect on social media.🤳
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/glenn-yinyu)
 [![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red&color=red&labelColor=white)](https://bit.ly/3C9t0gw)
