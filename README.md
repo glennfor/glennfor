@@ -76,7 +76,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`. Learn more on
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/github/github-plain.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg">
             </td>
         </tr>
     </tbody>
@@ -168,8 +168,6 @@ Glad to have you here. `Follow me` and `star a few cool projects`. Learn more on
             <span><strong>Figma</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
             </td>
-        </tr>
-        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>MS Office</strong></span><br>
             <img height="32px" src="https://www.logo.wine/a/logo/Microsoft_Office/Microsoft_Office-Logo.wine.svg">
