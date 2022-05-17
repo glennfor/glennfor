@@ -14,9 +14,14 @@ Hello 👋, Welcome to my github page.🏡
 Glad to have you here. `Follow me` and `star a few cool projects`.
 
 ## Lets connect on social media.🤳🎨💞💥💝❤>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/glenn-yinyu)
+[![](https://img.shields.io/endpoint?url=https://glenn-po.github.io/&style=for-the-badge)](https://glenn-po.github.io)
 
 
-## My Working Universe💻🌎
+
+<h1 align="center">
+ My Working💻 Universe🌎.
+</h1>
 
 
 ### Languages and Technologies🎯
