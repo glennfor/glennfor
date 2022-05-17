@@ -5,11 +5,10 @@ Glenn-Po/Glenn-Po is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  <img src="https://github.com/Glenn-Po/Glenn-Po/blob/main/profile/banner.gif" width="350" title="hover text">
-</p>
+![alt "My profile banner - Nfor Glen Yinyu"](https://github.com/Glenn-Po/Glenn-Po/blob/main/profile/banner.gif)
 
+| <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Glen 's github stats" /></a> | <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![alt ](https://github.com/Glenn-Po/Glenn-Po/blob/main/profile/banner.gif)
 ![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=glenn-poa&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical)](https://github.com/glenn-po/github-readme-stats)
