@@ -79,7 +79,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
             </td>
             <td width="80px" align="center">
             <span><strong>Django</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/django/django-plain.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>PyGame</strong></span><br>
@@ -134,7 +134,7 @@ Glad to have you here. `Follow me` and `star a few cool projects`.
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Photoshop</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Pixellab</strong></span><br>
