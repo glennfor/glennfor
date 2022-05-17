@@ -15,12 +15,11 @@ Glad to have you here. `Follow me` and `star a few cool projects`. [Visit my web
 
 ## Lets connect on social media.🤳🎨💞💥💝❤>
 
-Visit my website here. 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/glenn-yinyu)
-[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red)](https://bit.ly/3C9t0gw)
+[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red&labelColor=red)](https://bit.ly/3C9t0gw)
 
 [![](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=steelblue)](https://t.me/QueueUno)
-[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red)](https://bit.ly/3C9t0gw)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white&color=000000&labelColor==blue)](https://bit.ly/3C9t0gw)
 [![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red)](https://bit.ly/3C9t0gw)
 
 
