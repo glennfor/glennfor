@@ -11,10 +11,13 @@ You can click the Preview link to take a look at your changes.
 Hello 👋, Welcome to my github page.🏡
 </h1>
 
-I am a tech enthusiast and enthusiastic programmer. I am always open to learning. I am pleased to have you here.
-`Follow me` and `star some cool projects`. Learn more on my website [here](https://glenn-po.github.io)
+I am a tech enthusiast and motivated developer. I am always open to learning`(It is in my 🧬)`. I am pleased to have you here🤩.
+`Follow me` and `star some cool projects`. Learn more on my website [here](https://glenn-po.github.io).
+>I contibute to open source
+>I teach
+>I learn
 
-## Lets connect on social media.🤳
+## 📍Let's connect on social media.🤳
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/glenn-yinyu)
 [![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red&color=red&labelColor=white)](https://bit.ly/3C9t0gw)
@@ -28,11 +31,11 @@ I am a tech enthusiast and enthusiastic programmer. I am always open to learning
 
 
 <h1 align="center">
- My Working💻 Universe🌎.
+ My Working💻⛑ Universe🌎.
 </h1>
 
 
-### Languages and Technologies🎯
+### Languages🛠 and Technologies🎯⚙
 
 <table width="320px">
     <tbody>
@@ -85,7 +88,7 @@ I am a tech enthusiast and enthusiastic programmer. I am always open to learning
 
 
 
-### Frameworks, Libraries and Modules
+### Frameworks🥋, Libraries🥊 and Modules🎲
 
 <table width="320px">
     <tbody>
@@ -122,7 +125,7 @@ I am a tech enthusiast and enthusiastic programmer. I am always open to learning
     </tbody>
 </table>
 
-### Developer Tools
+### Developer💻 Tools💻
 
 <table width="320px">
     <tbody>
@@ -147,7 +150,7 @@ I am a tech enthusiast and enthusiastic programmer. I am always open to learning
     </tbody>
 </table>
 
-### Design and Productivity Tools
+### Design🎨 and Productivity🎯 Tools
 
 <table width="320px">
     <tbody>
@@ -185,7 +188,7 @@ I am a tech enthusiast and enthusiastic programmer. I am always open to learning
 </table>
 
 
-## GitHub Stats
+## GitHub Stats🟢
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" />|
 | ------------- | ------------- |
