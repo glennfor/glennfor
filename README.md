@@ -110,7 +110,6 @@ I am a tech enthusiast and enthusiastic programmer. I am always open to learning
             <span><strong>Laravel</strong></span><br>
             <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg">
             </td>
-            </td>
             <td width="80px" align="center">
             <span><strong>Boostrap</strong></span><br>
             <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain.svg">
