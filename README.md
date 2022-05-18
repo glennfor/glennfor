@@ -31,11 +31,11 @@ I am a tech enthusiast and motivated developer. I am always open to learning`(It
 
 
 <h1 align="center">
- My Working💻⛑ Universe🌎.
+ My Working⛑ Universe🌎.
 </h1>
 
 
-### Languages🛠 and Technologies🎯⚙
+### Languages🛠 and Technologies⚙
 
 <table width="320px">
     <tbody>
@@ -125,7 +125,7 @@ I am a tech enthusiast and motivated developer. I am always open to learning`(It
     </tbody>
 </table>
 
-### Developer💻 Tools💻
+### Developer💻 Tools
 
 <table width="320px">
     <tbody>
