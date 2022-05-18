@@ -186,6 +186,6 @@ I am a tech enthusiast and enthusiastic programmer. I am always open to learning
 
 
 ## GitHub Stats
-| <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen 's github stats" /></a> | <a href="https://github.com/glenn-po/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen 's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" />|
 | ------------- | ------------- |
 
