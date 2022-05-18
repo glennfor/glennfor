@@ -13,10 +13,8 @@ Hello 👋, Welcome to my github page.🏡
 
 I am a tech enthusiast and motivated developer. I am always open to learning`(It is in my 🧬)`. I am pleased to have you here🤩.
 `Follow me` and `star some cool projects`. Learn more on my website [here](https://glenn-po.github.io).
->I contibute to open source
->
->I teach
->
+>I contibute <br>
+>I teach <br>
 >I learn
 
 ## 📍Let's connect on social media.🤳
