@@ -190,6 +190,6 @@ I am a tech enthusiast and motivated developer. I am always open to learning`(It
 
 ## GitHub Stats🟢
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" /><p align="left"> <img src="https://komarev.com/ghpvc/?username=glenn-po&label=Profile%20views&color=002D62&style=flat" alt="glenn-po" /> </p>|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" />|
 | ------------- | ------------- |
 
