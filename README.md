@@ -1,20 +1,20 @@
 
 
 <!---
-Glenn-Po/Glenn-Po is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+glennfor/glennfor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-![alt "My profile banner - Nfor Glen Yinyu"](https://github.com/Glenn-Po/Glenn-Po/blob/main/profile/banner.gif)
+![alt "My profile banner - Nfor Glen Yinyu"](https://github.com/glennfor/glennfor/blob/main/profile/banner.gif)
 
 <h1 align="center">
 Hello 👋, Welcome to my github page.🏡
 </h1>
 
 I am a tech enthusiast and motivated developer. I am always open to learning`(It is in my 🧬)`. I am pleased to have you here🤩.
-`Follow me` and `star some cool projects`. Learn more on my website [here](https://glenn-po.github.io).
->I contibute 
->I teach 
+`Follow me` and `star some cool projects`. Learn more on my website [here](https://glennfor.tech).
+>I contribute 
+>I build 
 >I learn
 
 ## 📍Let's connect on social media.🤳
@@ -190,6 +190,6 @@ I am a tech enthusiast and motivated developer. I am always open to learning`(It
 
 ## GitHub Stats🟢
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenn-po&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-po&layout=compact&theme=radical&hide_border=true" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=glennfor&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Glen's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennfor&layout=compact&theme=radical&hide_border=true" />|
 | ------------- | ------------- |
 
